@@ -1,1 +1,1 @@
-# bootstrap-hover-tabs
+# Ninja CSS add-ons for Blades CSS
