@@ -6,7 +6,7 @@
 
 /* Layout */
 @import "./_container-breakout";
-@import "./_page-anchors";
+@import "./_scroll-to";
 
 /* Content */
 @import "./_heading-anchor";
